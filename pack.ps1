@@ -1,6 +1,6 @@
 #Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-$addonName = "one-chunk"
+$addonName = "expanding-world"
 $dir = Get-Location;
 
 # Compress the directory into a .zip

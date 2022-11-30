@@ -1,5 +1,5 @@
 # Initialize new players
-execute as @a[tag=!init] run function oc:events/init-player
+execute as @a[tag=!init] run function ew:events/init-player
 
 # Advance the world border each day
 execute store result score DayTime clock run time query daytime
