@@ -1,5 +1,5 @@
-title @p subtitle ["Expanding world by ",{"score":{"name":"@p","objective":"day"}}]
-title @p title {"text":" "}
+title @a subtitle ["Expanding world by ",{"score":{"name":"@p","objective":"day"}}]
+title @a title {"text":" "}
 
 execute if score @p day matches 1 run worldborder add 1
 execute if score @p day matches 2 run worldborder add 2
