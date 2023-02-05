@@ -1,6 +1,6 @@
 # expanding-world
 The world border starts at 16x16 area and expands each in-game day.
-![one-chunk](/expanding-world.png)
+![expanding-world](/expanding-world.png)
 
 ## Installation
 Use an existing world that is already setup to use the datapack.
